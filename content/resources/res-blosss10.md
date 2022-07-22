@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: An artistic line drawing of four human profiles within a circle.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-blosss10.gif
