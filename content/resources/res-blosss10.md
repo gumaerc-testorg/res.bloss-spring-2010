@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-bloss-blended-learning-open-source-science-or-math-studies-blossoms-spring-2010/2a9faef91f2365fd82e80c93b9d37a8b_res-blosss10.gif
+file: /courses/res-bloss-blended-learning-open-source-science-or-math-studies-blossoms-spring-2010/2a9faef91f2365fd82e80c93b9d37a8b_res-blosss10.gif
 file_size: 15329
 file_type: image/gif
 image_metadata:
