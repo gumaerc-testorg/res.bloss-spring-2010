@@ -36,7 +36,7 @@
   },
   "course_title": "Blended Learning Open Source Science or Math Studies (BLOSSOMS)",
   "hide_download": true,
-  "course_description": "BLOSSOMS stands for Blended Learning Science or Math Studies. It is a project sponsored by MIT LINC (Learning International Networks Consortium) a consortium of educators from around the world who are interested in using distance and e-Learning technologies to help their respective countries increase access to quality education for a larger percentage of the population.\n\n{{% resource_link \"d1bb60ab-707d-44ce-a360-47fcc6d29ab6\" \"BLOSSOMS Online\" %}}\n",
+  "course_description": "BLOSSOMS stands for Blended Learning Science or Math Studies. It is a project sponsored by MIT LINC (Learning International Networks Consortium) a consortium of educators from around the world who are interested in using distance and e-Learning technologies to help their respective countries increase access to quality education for a larger percentage of the population.\n\n[BLOSSOMS Online](http://blossoms.mit.edu/)\n",
   "department_numbers": [],
   "extra_course_numbers": "",
   "primary_course_number": "RES.BLOSS",
